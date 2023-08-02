@@ -1,0 +1,4 @@
+Guide To Use Below Scripts
+
+1. Provide Source Path When Prompted
+2. Pass any file path where you want to organize files
